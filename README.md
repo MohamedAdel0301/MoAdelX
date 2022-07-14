@@ -1,3 +1,3 @@
 - 👋 Welcome to my profile, I’m MoAdelX
-- 👀 I’m interested in web development and AI
-- 🌱 I’m currently a student in the engineering college of Ain Shams..
+- 👀 I’m interested in Web and Mobile Development
+- 🌱 I'm currently a student at Faculty of Engineering, Ain Shams University..
