@@ -1,3 +1,3 @@
 - 👋 Welcome to my profile, I’m MoAdelX
-- 👀 I’m interested in Web and Mobile Development
+- 👀 I’m interested in Web development
 - 🌱 I'm currently a student at Faculty of Engineering, Ain Shams University..
