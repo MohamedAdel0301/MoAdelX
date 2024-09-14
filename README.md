@@ -9,9 +9,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/MohamedAdel0301/count.svg?"  />
-</div>
+![](https://komarev.com/ghpvc/?username=mohamedadel0301&style=flat-square)
+
 
 ###
 
